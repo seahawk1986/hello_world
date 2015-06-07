@@ -1,0 +1,5 @@
+python-dbus2vdr (0.0.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alexander Grothe <seahawk1986@gmx.de>  Sun, 07 Jun 2015 19:32:52 +0200
